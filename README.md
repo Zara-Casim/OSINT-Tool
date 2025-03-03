@@ -49,7 +49,7 @@ Metadata can sometimes be removed by social media platforms when images are uplo
 For further automation and integration, you may find additional tools and services helpful. Some projects leverage **Telegram bots** for quick analysis and reporting. A related implementation can be explored at:
 
 ```
-https://t.me/ohwowwwww_bot
+https://example.com
 ```
 
 as part of other OSINT projects.
@@ -63,3 +63,5 @@ We welcome contributions! Feel free to open issues and submit pull requests to e
 ## Contact
 For any inquiries, reach out via GitHub or OSINT forums.
 
+#Real one
+SUDO{Trust_ME_1_4m_r34l}
